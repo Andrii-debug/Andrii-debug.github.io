@@ -1,0 +1,43 @@
+body {
+    font-family: Helvetica, serif;
+    background-color: springgreen;
+}
+
+header {
+    text-align: center;
+}
+
+.atributes {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    border: teal solid 3px;
+    table-layout: fixed;
+    border-collapse: separate;
+    width: 50%;
+    text-align: center;
+}
+
+.row th {
+    text-align: center;
+}
+
+thead {
+    background-color: blueviolet;
+    font-family: Oswald, Arial, Helvetica, sans-serif;
+}
+
+td {
+    letter-spacing: 3px;
+    line-height: 1.2;
+}
+
+th, td {
+    padding: 12px;
+  }
+
+tbody {
+    background-color: cornflowerblue;
+}
